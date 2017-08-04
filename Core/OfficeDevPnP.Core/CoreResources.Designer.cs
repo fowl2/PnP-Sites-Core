@@ -2439,7 +2439,7 @@ namespace OfficeDevPnP.Core {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Retrieving credetials with name {0} from the Windows Credential Manager.
+        ///   Looks up a localized string similar to Retrieving credentials with name &apos;{0}&apos; from the Windows Credential Manager.
         /// </summary>
         internal static string TimerJob_Authentication_RetrieveFromCredMan {
             get {
@@ -2448,7 +2448,7 @@ namespace OfficeDevPnP.Core {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Failed to retrieve credential manager credentials with name {0} or retrieved credentials don&apos;t have user or password set.
+        ///   Looks up a localized string similar to Failed to retrieve credential manager credentials with name &apos;{0}&apos; or retrieved credentials don&apos;t have user or password set.
         /// </summary>
         internal static string TimerJob_Authentication_RetrieveFromCredManFailed {
             get {
